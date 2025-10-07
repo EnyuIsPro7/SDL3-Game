@@ -1,0 +1,100 @@
+﻿# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs/editors
+../.idea/
+.vscode/
+*.iml
+*.code-workspace
+*.suo
+*.user
+*.sln.docstates
+
+# Build directories and outputs
+/build/
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+lib/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+dist/
+tmp/
+.cache/
+.ccls-cache/
+.clangd/
+
+# CMake-generated
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+CMakeScripts/
+Testing/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Compiled objects
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.lai
+*.dll.a
+
+# Shared objects (DLLs, SOs, DYLIBs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and linker files
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.map
+*.dSYM/
+
+# Logs
+*.log
+*.tlog
+
+# Coverage
+lcov.info
+*.gcda
+*.gcno
+*.gcov
+
+# Packages/archives
+*.zip
+*.7z
+*.tar
+*.gz
+*.bz2
